@@ -1,3 +1,3 @@
-# OvarianCancerClassifier
+# HSM CLASSIFIER
 
-Build a Classifier for the dataset OvarianCancer
+Build a Classifier for the a HSM problem.
